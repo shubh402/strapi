@@ -97,7 +97,11 @@ node_modules
 .yarn/*
 .yarn###
 yarnyarny
-.yarn
+.yarnyarn
+yarn
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
 
 ############################
 # Tests
