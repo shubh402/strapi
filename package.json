@@ -13,7 +13,7 @@
     "@exfabrica/strapi-plugin-awesome-seo": "^1.0.0-beta.1.1",
     "@strapi/plugin-i18n": "4.1.9",
     "@strapi/plugin-users-permissions": "4.1.9",
-    "@strapi/strapi": "4.1.9",
+    "@strapi/strapi": "4.2.0",
     "better-sqlite3": "7.5.1",
     "expo-cli": "^5.4.3",
     "expressjs": "^1.0.1",
